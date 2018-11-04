@@ -1,8 +1,8 @@
-# React Native for Beginners
+# React Native from Scratch
 
 Materials presented in React Native class held in **K.N. Toosi University of Technology**.
 
-## Prequisits
+## Prerequisite
 
 * Github account
 
@@ -43,4 +43,22 @@ Install the Expo command line tool by running this command in your terminal:
 ### Install a package using yarn
 ` yarn add [package_name] `
 
-### 
+## Resources
+
+### React
+
+* [React official documents](https://reactjs.org/)
+
+### React Native
+
+* [React Native Official documents](https://facebook.github.io/react-native/docs/)
+
+### Git
+
+* [Pro Git Book](https://git-scm.com/book/en/v2)
+* [Git documentations](https://git-scm.com/docs)
+
+## Sessions
+
+0. An overview of the course
+	- [Git Basics](./Git.md)
