@@ -58,7 +58,25 @@ Install the Expo command line tool by running this command in your terminal:
 * [Pro Git Book](https://git-scm.com/book/en/v2)
 * [Git documentations](https://git-scm.com/docs)
 
+### Javascript Resources
+* [Codecademy Javascript Course](https://www.codecademy.com/learn/learn-javascript)
+
+## Useful websites
+
+### [Stack Overflow](https://stackoverflow.com/)
+
+Stack Overflow is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.[Wikipedia]
+
+### [Medium](http://medium.com)
+
+Medium is an online publishing platform developed by Evan Williams, and launched in August 2012. It is owned by A Medium Corporation. The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium, and is regularly regarded as a blog host. [Wikipedia]
+
+### [Github](https://github.com/)
+
+GitHub Inc. is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features. [Wikipedia]
+
 ## Sessions
 
 0. An overview of the course
 	- [Git Basics](./Git.md)
+	- [Javascript Basics](./JS.md)
