@@ -78,5 +78,9 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 ## Sessions
 
 0. An overview of the course
+	- [Version Control System Introduction](https://www.youtube.com/watch?v=zbKdDsNNOhg)
+	- [What is Git?](https://vimeo.com/41381741)
+	- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 	- [Git Basics](./Git.md)
 	- [Javascript Basics](./JS.md)
+	- [Presentation](./presentations/e00.pdf)
