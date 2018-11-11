@@ -5,7 +5,7 @@ Materials presented in React Native class held in **K.N. Toosi University of Tec
 ## Prerequisite
 
 * Github account
-* Join our [slack](https://join.slack.com/t/kntureactnative/shared_invite/enQtNDc3MDQwMjc5MTQxLTVmNWEwNGU4YmI5NjY4MDkwNGQ3OTZhNTkzZDk2NTZjYWM5MTI2MGI5OTVkMGJlYzcyODMwY2RiNWI5NDMxYTc)
+* Join our [slack](https://join.slack.com/t/kntureactnative/shared_invite/enQtNDc3MDQwMjc5MTQxLTVmNWEwNGU4YmI5NjY4MDkwNGQ3OTZhNTkzZDk2NTZjYWM5MTI2MGI5OTVkMGJlYzcyODMwY2RiNWI5NDMxYTc) 
 
 ## Installations
 
