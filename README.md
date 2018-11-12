@@ -36,13 +36,23 @@ Install the Expo command line tool by running this command in your terminal:
 ## Instructions
 
 ### Clone a project via git
-` git clone [repository]` 
+	git clone [repository]
 
 ### Install a package using npm
-` npm install --save [package_name] `
+	npm install --save [package_name]
 
 ### Install a package using yarn
-` yarn add [package_name] `
+	yarn add [package_name]
+	
+### Initiate a React app
+	npx create-react-app [project_name]
+	cd [project_name]
+	npm start
+
+### Initiate and start a project using Expo
+	expo init [project_name]
+	cd [project_name]
+	expo start
 
 ## Resources
 
@@ -92,7 +102,7 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 	- [Javascript](http://eloquentjavascript.net/)
 	- [What is Babel?](https://babeljs.io/docs/en/)
 	- [ES6 for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
-	- [Introducing JSX] (https://reactjs.org/docs/introducing-jsx.html)
+	- [Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 	- [React](https://reactjs.org/)
 	- [React Native](https://facebook.github.io/react-native/)
 	- [Expo](http://expo.io)
