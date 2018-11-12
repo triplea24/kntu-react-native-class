@@ -61,6 +61,8 @@ Install the Expo command line tool by running this command in your terminal:
 
 ### Javascript Resources
 * [Codecademy Javascript Course](https://www.codecademy.com/learn/learn-javascript)
+* [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net/)
+* [ES6 for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
 
 ## Useful websites
 
@@ -85,3 +87,19 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 	- [Git Basics](./Git.md)
 	- [Javascript Basics](./JS.md)
 	- [Presentation](./presentations/e00.pdf)
+
+1. Javascript, ES6 and JSX in depth
+	- [Javascript](http://eloquentjavascript.net/)
+	- [What is Babel?](https://babeljs.io/docs/en/)
+	- [ES6 for beginners](https://codeburst.io/es6-tutorial-for-beginners-5f3c4e7960be)
+	- [Introducing JSX] (https://reactjs.org/docs/introducing-jsx.html)
+	- [React](https://reactjs.org/)
+	- [React Native](https://facebook.github.io/react-native/)
+	- [Expo](http://expo.io)
+	- [Install Expo](https://docs.expo.io/versions/v31.0.0/introduction/installation)
+	- [Expo Up and Running](https://docs.expo.io/versions/v31.0.0/workflow/up-and-running)
+
+## Similar Courses
+
+- [Stanford CS 47SI | Cross-Platform Mobile Development ](https://web.stanford.edu/class/cs47si/)
+- [Harvard CS50 Mobile | Mobile App Development with React Native](https://cs50.github.io/mobile/)
