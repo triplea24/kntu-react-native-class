@@ -96,7 +96,7 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 	- [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 	- [Git Basics](./Git.md)
 	- [Javascript Basics](./JS.md)
-	- [Presentation](./presentations/e00.pdf)
+	- [Presentation](https://www.slideshare.net/AmirAhangari1/react-native-from-scratch-session-00)
 
 1. Javascript, ES6 and JSX in depth
 	- [Javascript](http://eloquentjavascript.net/)
@@ -108,6 +108,8 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 	- [Expo](http://expo.io)
 	- [Install Expo](https://docs.expo.io/versions/v31.0.0/introduction/installation)
 	- [Expo Up and Running](https://docs.expo.io/versions/v31.0.0/workflow/up-and-running)
+	- [npx vs npm](https://medium.com/@sibeeshvenu/npm-vs-npx-f737dea2fb4)
+	- [Presentation](https://www.slideshare.net/AmirAhangari1/react-native-from-scratch-session-01)
 
 ## Similar Courses
 
