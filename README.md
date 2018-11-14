@@ -111,6 +111,16 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 	- [npx vs npm](https://medium.com/@sibeeshvenu/npm-vs-npx-f737dea2fb4)
 	- [Presentation](https://www.slideshare.net/AmirAhangari1/react-native-from-scratch-session-01)
 
+2. Components in React Native
+	- [Git rebase](https://www.youtube.com/watch?v=TymF3DpidJ8)
+	- [Expo snack](https://snack.expo.io/)
+	- [Basic components](https://facebook.github.io/react-native/docs/components-and-apis#basic-components)
+	- [Stylesheet](https://facebook.github.io/react-native/docs/stylesheet)
+	- [Flexbox](https://facebook.github.io/react-native/docs/flexbox)
+	- [Presentations](https://www.slideshare.net/AmirAhangari1/react-native-from-scratch-session-02)
+	- [Project](https://github.com/triplea24/kntu-react-native-calculator)
+
+
 ## Similar Courses
 
 - [Stanford CS 47SI | Cross-Platform Mobile Development ](https://web.stanford.edu/class/cs47si/)
